@@ -1,0 +1,20 @@
+html {
+	background-color: black;
+}
+
+.main {
+	color: white;
+	text-align: center;
+}
+
+h3, h4 {
+	color: white;
+}
+
+ol {
+	color: white;
+}
+
+a:hover {
+	color: white;
+}
