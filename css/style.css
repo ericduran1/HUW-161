@@ -7,6 +7,10 @@ html {
 	text-align: center;
 }
 
+h1 {
+	color: teal;
+}
+
 h2 {
 	color: #c5a9ff;
 }
@@ -22,4 +26,8 @@ ol {
 a:hover {
 	color: #c5a9ff;
 	text-decoration: none;
+}
+
+p {
+	color: white;
 }
