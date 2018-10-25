@@ -25,9 +25,22 @@ ol, li {
 	list-style-type: none;
 }
 
-a:hover {
-	color: #c5a9ff;
+a:link {
+	color: #cf690b;
 	text-decoration: none;
+}
+
+a:visited {
+	color: #666666;
+}
+
+a:active {
+	color: #ffcc00;
+}
+
+a:hover {
+	color: #ffcc00;
+	text-decoration: underline;
 }
 
 p {
